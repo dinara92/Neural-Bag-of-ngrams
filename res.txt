@@ -1,0 +1,34 @@
+MR:
+
+Uni - cgnr - 0.6992
+Uni - tgnr - 0.6675
+
+Bi - cgnr - 0.7223
+Bi - tgnr - 0.6694
+
+Bi+Tri - cgnr - 0.7257
+Bi+Tri - tgnr - 0.6658
+
+
+CR:
+
+Uni - cgnr - 0.7127
+Uni - tgnr - 0.7239
+
+Bi - cgnr - 0.7334
+Bi - tgnr - 0.7366
+
+Bi+Tri - cgnr - 0.7440
+Bi+Tri - tgnr - 0.7233
+
+Subj:
+
+Uni - cgnr - 0.8798
+Uni - tgnr - 0.8780
+
+Bi - cgnr - 0.9018
+Bi - tgnr - 0.8816
+
+Bi+Tri - cgnr - 
+Bi+Tri - tgnr - 
+
